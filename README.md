@@ -1,12 +1,44 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Christopher Cooper Portfolio
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a portfolio site built with React and Vite to showcase a few of the projects I'm proud of in a way that is interactive and easy to browse. The site features smooth animations, responsive design, and a clean layout to highlight my work effectively (I hope).
 
-## Expanding the ESLint configuration
+## Setup Instructions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+
+```bash
+   git clone https://github.com/yourusername/christopher-cooper-portfolio.git
+   cd christopher-cooper-portfolio
+```
+
+2. Install dependencies
+
+```bash
+    npm install
+```
+
+3. Start the dev server
+
+```bash
+    npm run dev
+```
+
+The site should be available via:
+http://localhost:5173
+
+4. Build for production
+
+```bash
+   npm run build
+```
+
+## Features
+
+- Project Showcase: Dedicated section to highlight my best projects with descriptions and images
+- About Me: Information about my skills, experience, and background
+- Contact Form: Easy way for visitors to get in touch with me (in theory)
+- CSS Animations: Subtle animation effects to enhance the user experience without being distracting
