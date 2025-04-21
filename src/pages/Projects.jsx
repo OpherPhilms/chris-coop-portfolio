@@ -7,7 +7,7 @@ function Projects() {
           <h3>1. Komodo Dance Team Music Videos</h3>
           <div className="project-images">
             <div className="img-container">
-              <img src="/images/komodo-highnoon.jpg" alt="Komodo High Noon Video Preview" />
+              <img src="/images/komodo-highnoon-copy.jpg" alt="Komodo High Noon Video Preview" />
             </div>
             <div className="img-container">
               <img src="/images/komodo-bigone.jpg" alt="Komodo The Big One Video Preview" />
